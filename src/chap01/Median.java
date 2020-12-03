@@ -2,6 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
+// 3개의 정숫값을 입력하고 중앙값을 구한 다음 출력합니다.
 public class Median {
 	static int med3(int a, int b, int c) {
 		if (a >= b)
