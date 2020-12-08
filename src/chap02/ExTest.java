@@ -24,5 +24,7 @@ class ExTest {
 		}
 
 		System.out.println("전 요소의 합계는 " + sumOf(a) + "입니다.");
+		
+		stdIn.close();
 	}
 }

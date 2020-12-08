@@ -1,7 +1,6 @@
 package chap02;
 
 import java.util.Random;
-import java.util.Scanner;
 
 // Q1)키뿐만 아니라 사람 수도 난수로 생성하도록 실습 2-5를 수정하여 프로그램을 작성하세요.
 public class Ex02_01 {
