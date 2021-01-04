@@ -27,6 +27,5 @@ public class LastElements {
 		for ( ; i < cnt; i++)
 			System.out.printf("%2d번째의 정수 = %d\n", i + 1, a[i%N]);
 		
-		
 	}
 }
