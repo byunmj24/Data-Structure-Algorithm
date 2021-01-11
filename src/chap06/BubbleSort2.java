@@ -29,7 +29,7 @@ public class BubbleSort2 {
 		
 		Scanner stdIn = new Scanner(System.in);
 		
-		System.out.println("버블 정렬(버전 1)");
+		System.out.println("버블 정렬(버전 2)");
 		System.out.print("요솟수 : ");
 		int nx = stdIn.nextInt();
 		int[] x = new int[nx];
