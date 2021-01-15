@@ -3,6 +3,7 @@ package chap06;
 import java.util.Scanner;
 
 public class Ex06_04 {
+	// 새로 할 것
 	// a[idx1]와 a[idx2]의 값을 바꿉니다.
 		static void swap(int[] a, int idx1, int idx2) {
 			int t = a[idx1];
