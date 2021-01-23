@@ -11,7 +11,7 @@ public class BubbleSort3 {
 		a[idx2] = t;
 	}
 	
-	// 버블 정렬
+	// 버블 정렬(버전 3)
 	static void bubbleSort(int[] a, int n) {
 		int k = 0;					// a[k]보다 앞쪽은 정렬을 마친 상태
 		while (k < n - 1) {

@@ -11,7 +11,7 @@ public class BubbleSort2 {
 		a[idx2] = t;
 	}
 	
-	// 버블 정렬
+	// 버블 정렬(버전 2)
 	static void bubbleSort(int[] a, int n) {
 		for (int i = 0; i < n - 1; i++) {
 			int exchg = 0;					// 패스의 교환 횟수를 기록합니다.

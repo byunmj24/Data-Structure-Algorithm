@@ -44,7 +44,7 @@ public class SelectionSort {
 			}
 		}
 		
-		selectionSort(x, nx);		// 배열 x를 버블 정렬합니다.
+		selectionSort(x, nx);		// 배열 x를 단순 선택 정렬합니다.
 		
 		System.out.println("오름차순으로 정렬했습니다.");
 		for (int i = 0; i < nx; i++)
